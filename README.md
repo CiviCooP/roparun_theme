@@ -11,5 +11,5 @@ This theme copies the header and the footer of the roparun website.
 
 ```bash
 cd sites/all/themes
-git clone origin https://github.com/CiviCooP/roparun_theme.git roparun
+git clone https://github.com/CiviCooP/roparun_theme.git roparun
 ```
