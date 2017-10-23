@@ -3,11 +3,12 @@ description = This theme copies the header and footer of the roparun website
 core = 7.x
 base theme = bootstrap
 
+stylesheets[all][] = css/jquery.mmenu.all.css
 stylesheets[all][] = css/roparun.css
 
 scripts[] = scripts/fancybox.pack.js
 scripts[] = scripts/fancybox.buttons.js  
-scripts[] = scripts/mmenu.js 
+scripts[] = scripts/jquery.mmenu.all.js
 scripts[] = scripts/roparun.js 
 
 regions[help] = Help

@@ -1,10 +1,5 @@
 (function ($) {
-	$(document).ready(function (){
-		$('#edit-submitted-donatie-team-roparun-team-member-25').change(function(e) {
-	    	alert('hoi');
-	  });
-	
-	
+	$(document).ready(function (){	
 		var html_body = $("html,body"),
 	        mobile_menu = $("#mobile-menu"),
 	        nav_mobile_menu_btn = $("#nav-mobile-menu-btn"),
@@ -24,7 +19,7 @@
 
     	window_width = $(window).width();
     
-	    /*fancybox_link.fancybox({
+	    fancybox_link.fancybox({
 	        loop: false,
 	        nextEffect: 'fade',
 	        prevEffect: 'fade',
@@ -55,7 +50,7 @@
 	        slidingSubmenus: false
 	    });
 	
-	    link_with_image.find("img").attr("data-pin-no-hover", "true");*/
+	    link_with_image.find("img").attr("data-pin-no-hover", "true");
 
 
     	menu_top_search_submit.click(function(e) {
@@ -83,7 +78,7 @@
 	        }
 	    });
 	
-	    /*menu_bottom_search_submit.click(function(e) {
+	    menu_bottom_search_submit.click(function(e) {
 	        if (!menu_bottom_search_form.hasClass("open") && window_width > 480) {
 	            e.preventDefault();
 	            menu_bottom_search_form.addClass("open");
@@ -111,7 +106,7 @@
 	    language_menu_select.change(function() {
 	        var language_menu_select_value = language_menu_select.find("option:selected").val();
 	        window.location.href = language_menu_select_value;
-	    });*/
+	    });
     
 	    /*$(window).resize(function() {
 	    	window_width = $(window).width();

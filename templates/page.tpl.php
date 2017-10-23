@@ -86,117 +86,111 @@
  */
 ?>
 <div id="mobile-menu" class="page-loading">
-            <ul>
-                <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="https://www.roparun.nl/over-roparun/">Over Roparun</a>
-<ul  class="sub-menu">
-	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.roparun.nl/over-roparun/algemeen/">Het Roparunteam</a></li>
-	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://www.roparun.nl/over-roparun/ambassadeur-en-cva/">Ambassadeur en CvA</a></li>
-	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.roparun.nl/over-roparun/bestuur-en-rva/">Bestuur, RvA en kantoor</a></li>
-	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://www.roparun.nl/over-roparun/vrijwilligers/">Vrijwilligers</a></li>
-	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="https://www.roparun.nl/over-roparun/pers/">Pers</a></li>
-	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="https://www.roparun.nl/over-roparun/financieel/">Verantwoording</a></li>
-	<li id="menu-item-2827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2827"><a href="https://www.roparun.nl/over-roparun/roparun-radio/">Roparunradio</a></li>
-	<li id="menu-item-2845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2845"><a href="https://www.roparun.nl/over-roparun/roparun-internationaal/">Roparun internationaal</a></li>
-</ul>
-</li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a href="https://www.roparun.nl/steun-ons/">Steun ons</a>
-<ul  class="sub-menu">
-	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://www.roparun.nl/steun-ons/doneren/">Doneren</a></li>
-	<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="https://www.roparun.nl/steun-ons/partners/">Onze partners</a></li>
-	<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="https://www.roparun.nl/steun-ons/zakelijk/">Roparun Business club</a></li>
-	<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://www.roparun.nl/steun-ons/roparun-friends/">Roparun Friends</a></li>
-	<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="https://www.roparun.nl/steun-ons/roparun-sponsoren-2/">Roparun sponsormogelijkheden</a></li>
-</ul>
-</li>
-<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="https://www.roparun.nl/doelen/">Doelen</a>
-<ul  class="sub-menu">
-	<li id="menu-item-10064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10064"><a href="https://www.roparun.nl/doelen/doelen-2018/">Doelen 2018</a></li>
-	<li id="menu-item-7505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7505"><a href="https://www.roparun.nl/doelen/doelen-2017/">Doelen 2017</a></li>
-	<li id="menu-item-2842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2842"><a href="https://www.roparun.nl/doelen/doelen-archief/">Doelen archief</a></li>
-	<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://www.roparun.nl/doelen/vraag-ondersteuning-aan/">Vraag ondersteuning aan</a></li>
-	<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://www.roparun.nl/doelen/doel-uitgelicht/">Doel uitgelicht</a></li>
-	<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917"><a href="https://www.roparun.nl/doelen/kinderdag/">Kinderdag</a></li>
-	<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="https://www.roparun.nl/doelen/vakantiebungalows/">Vakantiebungalows</a></li>
-	<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="https://www.roparun.nl/doelen/stichting-haarwensen/">Stichting Haarwensen</a></li>
-</ul>
-</li>
-<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54"><a href="https://www.roparun.nl/teams/">Teams</a>
-<ul  class="sub-menu">
-	<li id="menu-item-10091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10091"><a href="https://www.roparun.nl/teams/overzicht-teams-2018/">Overzicht teams 2018</a></li>
-	<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://www.roparun.nl/teams/acties-van-teams/">Acties van teams</a></li>
-	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://www.roparun.nl/teams/slotavond/">Slotavond</a></li>
-	<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.roparun.nl/teams/teambijeenkomsten/">Teambijeenkomsten</a></li>
-	<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="https://www.roparun.nl/teams/aanleveren-voor-teams/">Gegevens aanleveren teams</a></li>
-	<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://www.roparun.nl/teams/reglement/">Reglement</a></li>
-	<li id="menu-item-2712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2712"><a href="https://www.roparun.nl/teams/goedgekeurde-veiligheidshesjes/">Goedgekeurde veiligheidshesjes</a></li>
-	<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://www.roparun.nl/teams/stichting-oprichten/">Stichting oprichten (optioneel)</a></li>
-	<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://www.roparun.nl/teams/deelnemers-documenten/">Deelnemers documenten</a></li>
-	<li id="menu-item-3718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3718"><a href="https://www.roparun.nl/teams/uitleen/">Uitleen</a></li>
-</ul>
-</li>
-<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-53"><a href="https://www.roparun.nl/onderweg-op-de-route/">Op de route</a>
-<ul  class="sub-menu">
-	<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://www.roparun.nl/onderweg-op-de-route/roparunnerstad/">Roparunnerstad</a></li>
-	<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://www.roparun.nl/onderweg-op-de-route/doorkomsten/">Doorkomsten</a></li>
-	<li id="menu-item-8187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8187"><a href="https://www.roparun.nl/onderweg-op-de-route/route-2017/">Route 2017</a></li>
-	<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="https://www.roparun.nl/onderweg-op-de-route/verkeer-en-ov-in-rotterdam/">Verkeer en OV in Rotterdam</a></li>
-	<li id="menu-item-8169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8169"><a href="https://www.roparun.nl/onderweg-op-de-route/moedig-teams-aan/">Toeschouwers</a></li>
-</ul>
-</li>
-<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/">Uitslagen &#038; Opbrengsten</a>
-<ul  class="sub-menu">
-	<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/resultaten-tot-nu-toe/">Resultaten tot nu toe</a></li>
-	<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/loterij/">Loterij</a></li>
-	<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/status-opbrengsten/">Status opbrengsten</a></li>
-	<li id="menu-item-2633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/uitslagen-roparun-2016/">Uitslagen Roparun 2017</a></li>
-</ul>
-</li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a href="https://www.roparun.nl/roparun-in-beeld/">In beeld</a>
-<ul  class="sub-menu">
-	<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://www.roparun.nl/roparun-in-beeld/fotos/">Foto&#8217;s</a></li>
-	<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://www.roparun.nl/roparun-in-beeld/videos/">Video&#8217;s</a></li>
-</ul>
-</li>
-<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="https://www.roparun.nl/nieuws/">Nieuws</a></li>
-<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="https://www.roparun.nl/inschrijven/">Inschrijven</a>
-<ul  class="sub-menu">
-	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.roparun.nl/inschrijven/inschrijven-nieuwe-teams/">Inschrijven nieuwe teams</a></li>
-	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.roparun.nl/inschrijven/inschrijven-bestaande-teams/">Inschrijven bestaande teams</a></li>
-	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.roparun.nl/inschrijven/vraag-en-aanbod/">Vraag en aanbod Roparun 2018</a></li>
-	<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.roparun.nl/inschrijven/algemene-informatie-document/">Informatie nieuwe teams</a></li>
-	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.roparun.nl/inschrijven/aanmelden-vrijwilligers/">Roparun vrijwilliger worden?</a></li>
-</ul>
-</li>
-<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://www.roparun.nl/verkoopartikelen/">Verkoopartikelen</a></li>
-<li id="menu-item-3419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419"><a href="https://www.roparun.nl/over-roparun/financieel/">Verantwoording</a></li>
-<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60"><a href="https://www.roparun.nl/contact/">Contact</a>
-<ul  class="sub-menu">
-	<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://www.roparun.nl/contact/contactgegevens/">Contactgegevens</a></li>
-	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://www.roparun.nl/contact/social-media/">Social media</a></li>
-	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://www.roparun.nl/contact/vraag-informatie-aan/">Vraag informatie aan</a></li>
-	<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="https://www.roparun.nl/contact/vacatures/">Vacatures Stichting Roparun</a></li>
-	<li id="menu-item-2760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2760"><a href="https://www.roparun.nl/contact/routebeschrijving/">Routebeschrijving</a></li>
-</ul>
-</li>
-                <li class="mobile-menu-language-wrapper">
-                    
-                    <a href="https://www.roparun.nl/francais/quest-ce-que-le-roparun/" title="Français"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/francais.jpg" alt="Français"/></a>
+ <ul>
+ 	<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="https://www.roparun.nl/over-roparun/">Over Roparun</a>
+				<ul  class="sub-menu">
+					<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.roparun.nl/over-roparun/algemeen/">Het Roparunteam</a></li>
+					<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://www.roparun.nl/over-roparun/ambassadeur-en-cva/">Ambassadeur en CvA</a></li>
+					<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.roparun.nl/over-roparun/bestuur-en-rva/">Bestuur, RvA en kantoor</a></li>
+					<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://www.roparun.nl/over-roparun/vrijwilligers/">Vrijwilligers</a></li>
+					<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="https://www.roparun.nl/over-roparun/pers/">Pers</a></li>
+					<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="https://www.roparun.nl/over-roparun/financieel/">Verantwoording</a></li>
+					<li id="menu-item-2827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2827"><a href="https://www.roparun.nl/over-roparun/roparun-radio/">Roparunradio</a></li>
+					<li id="menu-item-2845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2845"><a href="https://www.roparun.nl/over-roparun/roparun-internationaal/">Roparun internationaal</a></li>
+			</ul>
+	</li>
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a href="https://www.roparun.nl/steun-ons/">Steun ons</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://www.roparun.nl/steun-ons/doneren/">Doneren</a></li>
+			<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="https://www.roparun.nl/steun-ons/partners/">Onze partners</a></li>
+			<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="https://www.roparun.nl/steun-ons/zakelijk/">Roparun Business club</a></li>
+			<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://www.roparun.nl/steun-ons/roparun-friends/">Roparun Friends</a></li>
+			<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="https://www.roparun.nl/steun-ons/roparun-sponsoren-2/">Roparun sponsormogelijkheden</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="https://www.roparun.nl/doelen/">Doelen</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-10064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10064"><a href="https://www.roparun.nl/doelen/doelen-2018/">Doelen 2018</a></li>
+			<li id="menu-item-7505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7505"><a href="https://www.roparun.nl/doelen/doelen-2017/">Doelen 2017</a></li>
+			<li id="menu-item-2842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2842"><a href="https://www.roparun.nl/doelen/doelen-archief/">Doelen archief</a></li>
+			<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://www.roparun.nl/doelen/vraag-ondersteuning-aan/">Vraag ondersteuning aan</a></li>
+			<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://www.roparun.nl/doelen/doel-uitgelicht/">Doel uitgelicht</a></li>
+			<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917"><a href="https://www.roparun.nl/doelen/kinderdag/">Kinderdag</a></li>
+			<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="https://www.roparun.nl/doelen/vakantiebungalows/">Vakantiebungalows</a></li>
+			<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="https://www.roparun.nl/doelen/stichting-haarwensen/">Stichting Haarwensen</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54"><a href="https://www.roparun.nl/teams/">Teams</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-10091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10091"><a href="https://www.roparun.nl/teams/overzicht-teams-2018/">Overzicht teams 2018</a></li>
+			<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://www.roparun.nl/teams/acties-van-teams/">Acties van teams</a></li>
+			<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://www.roparun.nl/teams/slotavond/">Slotavond</a></li>
+			<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.roparun.nl/teams/teambijeenkomsten/">Teambijeenkomsten</a></li>
+			<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="https://www.roparun.nl/teams/aanleveren-voor-teams/">Gegevens aanleveren teams</a></li>
+			<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://www.roparun.nl/teams/reglement/">Reglement</a></li>
+			<li id="menu-item-2712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2712"><a href="https://www.roparun.nl/teams/goedgekeurde-veiligheidshesjes/">Goedgekeurde veiligheidshesjes</a></li>
+			<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="https://www.roparun.nl/teams/stichting-oprichten/">Stichting oprichten (optioneel)</a></li>
+			<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://www.roparun.nl/teams/deelnemers-documenten/">Deelnemers documenten</a></li>
+			<li id="menu-item-3718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3718"><a href="https://www.roparun.nl/teams/uitleen/">Uitleen</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-53"><a href="https://www.roparun.nl/onderweg-op-de-route/">Op de route</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://www.roparun.nl/onderweg-op-de-route/roparunnerstad/">Roparunnerstad</a></li>
+			<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="https://www.roparun.nl/onderweg-op-de-route/doorkomsten/">Doorkomsten</a></li>
+			<li id="menu-item-8187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8187"><a href="https://www.roparun.nl/onderweg-op-de-route/route-2017/">Route 2017</a></li>
+			<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="https://www.roparun.nl/onderweg-op-de-route/verkeer-en-ov-in-rotterdam/">Verkeer en OV in Rotterdam</a></li>
+			<li id="menu-item-8169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8169"><a href="https://www.roparun.nl/onderweg-op-de-route/moedig-teams-aan/">Toeschouwers</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/">Uitslagen &#038; Opbrengsten</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/resultaten-tot-nu-toe/">Resultaten tot nu toe</a></li>
+			<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/loterij/">Loterij</a></li>
+			<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/status-opbrengsten/">Status opbrengsten</a></li>
+			<li id="menu-item-2633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="https://www.roparun.nl/uitslagen-en-opbrengsten/uitslagen-roparun-2016/">Uitslagen Roparun 2017</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51"><a href="https://www.roparun.nl/roparun-in-beeld/">In beeld</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://www.roparun.nl/roparun-in-beeld/fotos/">Foto&#8217;s</a></li>
+			<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://www.roparun.nl/roparun-in-beeld/videos/">Video&#8217;s</a></li>
+		</ul>
+	</li>
+	<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="https://www.roparun.nl/nieuws/">Nieuws</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="https://www.roparun.nl/inschrijven/">Inschrijven</a>
+			<ul  class="sub-menu">
+				<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.roparun.nl/inschrijven/inschrijven-nieuwe-teams/">Inschrijven nieuwe teams</a></li>
+				<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.roparun.nl/inschrijven/inschrijven-bestaande-teams/">Inschrijven bestaande teams</a></li>
+				<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.roparun.nl/inschrijven/vraag-en-aanbod/">Vraag en aanbod Roparun 2018</a></li>
+				<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.roparun.nl/inschrijven/algemene-informatie-document/">Informatie nieuwe teams</a></li>
+				<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.roparun.nl/inschrijven/aanmelden-vrijwilligers/">Roparun vrijwilliger worden?</a></li>
+			</ul>
+	</li>
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://www.roparun.nl/verkoopartikelen/">Verkoopartikelen</a></li>
+	<li id="menu-item-3419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419"><a href="https://www.roparun.nl/over-roparun/financieel/">Verantwoording</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60"><a href="https://www.roparun.nl/contact/">Contact</a>
+		<ul  class="sub-menu">
+			<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://www.roparun.nl/contact/contactgegevens/">Contactgegevens</a></li>
+			<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://www.roparun.nl/contact/social-media/">Social media</a></li>
+			<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://www.roparun.nl/contact/vraag-informatie-aan/">Vraag informatie aan</a></li>
+			<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="https://www.roparun.nl/contact/vacatures/">Vacatures Stichting Roparun</a></li>
+			<li id="menu-item-2760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2760"><a href="https://www.roparun.nl/contact/routebeschrijving/">Routebeschrijving</a></li>
+		</ul>
+	</li>
+	<li class="mobile-menu-language-wrapper">
+	   <a href="https://www.roparun.nl/francais/quest-ce-que-le-roparun/" title="Français"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/francais.jpg" alt="Français"/></a>
+	   <a href="https://www.roparun.nl/deutsch/was-ist-roparun/" title="Deutsch"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/deutsch.jpg" alt="Deutsch"/></a>
+	   <a href="https://www.roparun.nl/english/what-is-roparun/" title="English"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/english.jpg" alt="English"/></a>
+	    <a href="https://www.roparun.nl" title="Nederlands"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/nederlands.jpg" alt="Nederlands"/></a>
+	</li>
+ </ul>
+</div>
 
-                    
-                    <a href="https://www.roparun.nl/deutsch/was-ist-roparun/" title="Deutsch"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/deutsch.jpg" alt="Deutsch"/></a>
-
-                    
-                    <a href="https://www.roparun.nl/english/what-is-roparun/" title="English"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/english.jpg" alt="English"/></a>
-
-                    
-                    <a href="https://www.roparun.nl" title="Nederlands"><img src="https://www.roparun.nl/wp-content/themes/roparun/img/languages/nederlands.jpg" alt="Nederlands"/></a>
-                </li>
-            </ul>
-        </div>
-
-<div class="mm-page mm-slideout"><div id="website-container">
-<header>
-            <nav id="nav-top">
+<div class="mm-page mm-slideout">
+	<div id="website-container">
+		<header>
+    	<nav id="nav-top">
                 <ul id="top-menu">
                     <li class="menu-top-search"><form role="search" method="get" action="https://www.roparun.nl/" id="menu-top-search-form"><input type="text" value="" name="s" id="s1" placeholder="Zoeken..."/><input type="submit" value="" name="menu-top-search-submit" id="menu-top-search-submit"/><div class="clearfix"></div></form></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="https://www.roparun.nl/inschrijven/">Inschrijven</a>
@@ -307,19 +301,14 @@
     <a href="#mobile-menu" id="nav-mobile-menu-btn"><span></span><span></span><span></span></a>
 </header>
 
-
-
 <div class="main-container <?php print $container_class; ?>">
 
-  <header role="banner" id="page-header">
-    <?php if (!empty($site_slogan)): ?>
-      <p class="lead"><?php print $site_slogan; ?></p>
-    <?php endif; ?>
+<div class="clearfix"></div>
+<div class="website-content">
 
-    <?php print render($page['header']); ?>
-  </header> <!-- /#page-header -->
 
-  <div class="row">
+<div class="container">
+  <div class="row padding-top-bottom-sm">
 
     <?php if (!empty($page['sidebar_first'])): ?>
       <aside class="col-sm-3" role="complementary">
@@ -359,6 +348,7 @@
 
   </div>
 </div>
+</div></div>
 <footer>
     <div class="container">
         <div class="row">
