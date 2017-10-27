@@ -329,6 +329,6 @@ footer #footer-social-icons a img:hover { background-color: #d0d9e3; }
 	border-color: #ef412f;
 	color: #fff;
 }
-.webform-client-form #wf-crm-billing-total {
+.webform-client-form #wf-crm-billing-items {
 	display: none;
 }
